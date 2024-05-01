@@ -29,3 +29,6 @@ Overall, the medical AI assistant's purpose is to enhance access to reliable med
 to make well-informed choices about their health. Its capabilities are continually evolving to meet the diverse needs of healthcare professionals and individuals seeking accurate and 
 
 trustworthy medical assistance.
+
+The setup for the app can be accessed through the link below.
+Link: https://drive.google.com/file/d/1edpgywT_HDhZlxRpsoqrh3djHhJ5Xk73/view?usp=sharing
