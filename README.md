@@ -51,7 +51,11 @@ The setup for the app can be accessed through the link below.
 Link: https://drive.google.com/file/d/1edpgywT_HDhZlxRpsoqrh3djHhJ5Xk73/view?usp=sharing
 
 Inorder to run the app please follow these steps:
+
 1.Download the zip file through the link.
+
 2.Extract the files.
+
 3.Open the folder.
+
 4.Click on setup to install the app.
