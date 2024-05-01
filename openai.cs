@@ -13,7 +13,7 @@ namespace Cure_WPF
 {
     internal class Openai
     {
-        public static string apikey = "sk-proj-bPKdFDTZEuH3PEIp7BvcT3BlbkFJYKHBaYQfbnqCdaiMu7XG";
+        public static string apikey = "apiKey";
         public static OpenAIAPI openai = new OpenAIAPI(apikey);
         public static OpenAI_API.Chat.Conversation chatgpt = openai.Chat.CreateConversation();
         public string SystemMessage { get; set; }
